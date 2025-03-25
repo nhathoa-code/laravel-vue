@@ -1,0 +1,1 @@
+<template>patron checkout</template>
